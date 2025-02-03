@@ -1,6 +1,4 @@
 ## life is not only living
-c c++ java openwrt 
-
 <!--
 **loujia0/loujia0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
